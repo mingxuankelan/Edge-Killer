@@ -1,3 +1,3 @@
- # 边缘杀手
-这是一个程序,可以帮助您卸载微软边缘和微软边缘网络浏览2运行时。
-微软的边缘网络浏览软件2
+  # 边缘杀手
+  This is a program that can help you uninstall Microsoft Edge and Microsoft Edge WebView2 Runtime.
+  这是一个可以帮助你卸载Microsoft Edge和Microsoft Edge WebView2 Runtime的程序
